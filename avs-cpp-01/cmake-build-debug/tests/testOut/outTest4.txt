@@ -1,0 +1,31 @@
+Container contains 15 elements
+
+0: It is Bus: Fuel capacity = 12 (litres), Fuel consumption = 431.000000 (100km), Maximum parson capacity = 12  (pers.). Maximum distance = 2.784223 (km)
+
+1: It is Truck: Fuel capacity = 40 (litres), Fuel consumption = 100.000000 (100km), Lifting capacity = 67  (kg). Maximum distance = 40.000000 (km)
+
+2: It is Bus: Fuel capacity = 23 (litres), Fuel consumption = 48.000000 (100km), Maximum parson capacity = 12  (pers.). Maximum distance = 47.916667 (km)
+
+3: It is Bus: Fuel capacity = 12 (litres), Fuel consumption = 24.000000 (100km), Maximum parson capacity = 22  (pers.). Maximum distance = 50.000000 (km)
+
+4: It is Car: Fuel capacity = 31 (litres), Fuel consumption = 60.000000 (100km), Maximum speed = 20  (km/h). Maximum distance = 51.666667 (km)
+
+5: It is Car: Fuel capacity = 45 (litres), Fuel consumption = 60.000000 (100km), Maximum speed = 10  (km/h). Maximum distance = 75.000000 (km)
+
+6: It is Bus: Fuel capacity = 76 (litres), Fuel consumption = 98.000000 (100km), Maximum parson capacity = 70  (pers.). Maximum distance = 77.551020 (km)
+
+7: It is Truck: Fuel capacity = 50 (litres), Fuel consumption = 60.000000 (100km), Lifting capacity = 70  (kg). Maximum distance = 83.333333 (km)
+
+8: It is Car: Fuel capacity = 32 (litres), Fuel consumption = 30.000000 (100km), Maximum speed = 30  (km/h). Maximum distance = 106.666667 (km)
+
+9: It is Bus: Fuel capacity = 61 (litres), Fuel consumption = 56.000000 (100km), Maximum parson capacity = 45  (pers.). Maximum distance = 108.928571 (km)
+
+10: It is Bus: Fuel capacity = 32 (litres), Fuel consumption = 27.000000 (100km), Maximum parson capacity = 89  (pers.). Maximum distance = 118.518519 (km)
+
+11: It is Truck: Fuel capacity = 50 (litres), Fuel consumption = 40.000000 (100km), Lifting capacity = 90  (kg). Maximum distance = 125.000000 (km)
+
+12: It is Car: Fuel capacity = 39 (litres), Fuel consumption = 23.000000 (100km), Maximum speed = 30  (km/h). Maximum distance = 169.565217 (km)
+
+13: It is Truck: Fuel capacity = 9 (litres), Fuel consumption = 4.000000 (100km), Lifting capacity = 8  (kg). Maximum distance = 225.000000 (km)
+
+14: It is Car: Fuel capacity = 36 (litres), Fuel consumption = 12.000000 (100km), Maximum speed = 78  (km/h). Maximum distance = 300.000000 (km)

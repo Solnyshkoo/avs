@@ -1,0 +1,11 @@
+Container contains 5 elements
+
+0: It is Bus: Fuel capacity = 56 (litres), Fuel consumption = 79.000000 (100km), Maximum parson capacity = 36  (pers.). Maximum distance = 70.886076 (km)
+
+1: It is Truck: Fuel capacity = 20 (litres), Fuel consumption = 25.000000 (100km), Lifting capacity = 23  (kg). Maximum distance = 80.000000 (km)
+
+2: It is Truck: Fuel capacity = 30 (litres), Fuel consumption = 35.000000 (100km), Lifting capacity = 29  (kg). Maximum distance = 85.714286 (km)
+
+3: It is Bus: Fuel capacity = 34 (litres), Fuel consumption = 26.000000 (100km), Maximum parson capacity = 18  (pers.). Maximum distance = 130.769231 (km)
+
+4: It is Truck: Fuel capacity = 87 (litres), Fuel consumption = 35.000000 (100km), Lifting capacity = 63  (kg). Maximum distance = 248.571429 (km)

@@ -1,0 +1,5 @@
+Container contains 2 elements
+
+0: It is Car: Fuel capacity = 45 (litres), Fuel consumption = 98.000000 (100km), Maximum speed = 67  (km/h). Maximum distance = 45.918367 (km)
+
+1: It is Truck: Fuel capacity = 60 (litres), Fuel consumption = 87.000000 (100km), Lifting capacity = 67  (kg). Maximum distance = 68.965517 (km)
